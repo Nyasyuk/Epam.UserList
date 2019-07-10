@@ -1,0 +1,6 @@
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\bin\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\bin\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.csprojAssemblyReference.cache

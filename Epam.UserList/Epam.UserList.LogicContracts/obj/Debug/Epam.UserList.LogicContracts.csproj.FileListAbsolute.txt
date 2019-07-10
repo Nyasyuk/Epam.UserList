@@ -1,0 +1,9 @@
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\bin\Debug\Epam.UserList.LogicContracts.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\bin\Debug\Epam.UserList.LogicContracts.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\bin\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\bin\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\obj\Debug\Epam.UserList.LogicContracts.csprojAssemblyReference.cache
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\obj\Debug\Epam.UserList.LogicContracts.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\obj\Debug\Epam.UserList.LogicContracts.csproj.CopyComplete
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\obj\Debug\Epam.UserList.LogicContracts.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.LogicContracts\obj\Debug\Epam.UserList.LogicContracts.pdb

@@ -1,0 +1,9 @@
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\bin\Debug\Epam.UserList.DalContract.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\bin\Debug\Epam.UserList.DalContract.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\bin\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\bin\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\obj\Debug\Epam.UserList.DalContract.csprojAssemblyReference.cache
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\obj\Debug\Epam.UserList.DalContract.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\obj\Debug\Epam.UserList.DalContract.csproj.CopyComplete
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\obj\Debug\Epam.UserList.DalContract.dll
+Z:\Programs\VS\Epam.UserList\Epam.UserList.DalContract\obj\Debug\Epam.UserList.DalContract.pdb
