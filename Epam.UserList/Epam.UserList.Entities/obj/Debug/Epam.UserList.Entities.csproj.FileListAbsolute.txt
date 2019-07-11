@@ -4,3 +4,9 @@ Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Enti
 Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.dll
 Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.pdb
 Z:\Programs\VS\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.csprojAssemblyReference.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\bin\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\bin\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.csprojAssemblyReference.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.Entities\obj\Debug\Epam.UserList.Entities.pdb

@@ -9,3 +9,14 @@ Z:\Programs\VS\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.Mem
 Z:\Programs\VS\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.dll
 Z:\Programs\VS\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.pdb
 Z:\Programs\VS\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.csprojAssemblyReference.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.MemoryDal.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.MemoryDal.pdb
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.DalContract.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.Entities.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.DalContract.pdb
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\bin\Debug\Epam.UserList.Entities.pdb
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.csprojAssemblyReference.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.csproj.CoreCompileInputs.cache
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.csproj.CopyComplete
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.dll
+Z:\Programs\VS\гит\Epam.UserList\Epam.UserList\Epam.UserList.MemoryDal\obj\Debug\Epam.UserList.MemoryDal.pdb

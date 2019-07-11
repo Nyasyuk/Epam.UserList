@@ -42,14 +42,14 @@ namespace Epam.UserList.Logic
             userDao.GiveAward(idUser, userAward);
         }
 
-        public User Save(string userName, DateTime dateOfBirth, int age)
+        public User Save(string userName, DateTime dateOfBirth)
         {
             if(string.IsNullOrWhiteSpace(userName))
             {
                 throw new ArgumentException("Имя пользователя не задано");
             }
             List<Award> userAwards = new List<Award>();
-            User user = new User(userName, dateOfBirth, age, userAwards);
+            User user = new User(userName, dateOfBirth, userAwards);
 
             if (userDao.Add(user))
             {

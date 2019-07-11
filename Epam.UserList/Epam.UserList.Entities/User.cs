@@ -11,27 +11,23 @@ namespace Epam.UserList.Entities
         int id;
         string name;
         DateTime dateOfBirth;
-        int age;
         List <Award> awards;
 
         public int Id {get; set; }
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
-        public int Age { get; set; }
         public List <Award> Awards { get; set; }
 
-        public User(string name, DateTime dateOfBirth, int age)
+        public User(string name, DateTime dateOfBirth)
         {
             Name = name;
             DateOfBirth = dateOfBirth;
-            Age = age;
         }
 
-        public User(string name, DateTime dateOfBirth, int age, List <Award> awards)
+        public User(string name, DateTime dateOfBirth, List <Award> awards)
         {
             Name = name;
             DateOfBirth = dateOfBirth;
-            Age = age;
             Awards = awards;
         }
     }

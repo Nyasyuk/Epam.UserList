@@ -113,7 +113,7 @@ namespace Epam.UserList.ConsoleUI
             User[] users = userLogic.GetAll();
             foreach (var user in users)
             {
-                Console.WriteLine($"id: {user.Id} Имя: {user.Name} Дата рождения: {user.DateOfBirth} Возраст: {user.Age} лет");
+                Console.WriteLine($"id: {user.Id} Имя: {user.Name} Дата рождения: {user.DateOfBirth.ToShortDateString()} Возраст: {GetAge(user.DateOfBirth)} лет");
                 List<Award> awards = user.Awards;
                 if (awards.Count>0)
                 {
@@ -132,11 +132,19 @@ namespace Epam.UserList.ConsoleUI
             string userName = Console.ReadLine();
             Console.WriteLine("Введите дату рождения:");
             string dateOfBirth = Console.ReadLine();
-            Console.WriteLine("Введите возраст:");
-            string age = Console.ReadLine();
 
+            User newUser = userLogic.Save(userName, Convert.ToDateTime(dateOfBirth));
+        }
 
-            User newUser = userLogic.Save(userName, Convert.ToDateTime(dateOfBirth), Convert.ToInt32(age));
+        public static int GetAge(DateTime birthDate)
+        {
+            DateTime n = DateTime.Now;
+            int age = n.Year - birthDate.Year;
+
+            if (n.Month < birthDate.Month || (n.Month == birthDate.Month && n.Day < birthDate.Day))
+                age--;
+
+            return age;
         }
     }
 }
